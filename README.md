@@ -18,6 +18,7 @@ What are the key factors for a customer deciding to stay with or switch provider
 Data sources and fields that could be used to explore the contribution of various factors to a customer’s potential action
 What would a data frame of your choice look like — what should each column and row represent?
 What kind of exploratory analyses on the relevant fields can give more insights into churn behaviour?
+
 Task 2: Exploratory data analysis
 The BCG project team thinks that building a churn model to understand whether price sensitivity is the largest driver of churn has potential. The client has sent over some data which includes:
 
